@@ -23,5 +23,5 @@ function scuberGreetingForFeet(ride){
   
   
 function  ternaryCheckCity(city) {
-  city==="NYC" ?  
+  city==="NYC" ? "y":"n" 
 }
