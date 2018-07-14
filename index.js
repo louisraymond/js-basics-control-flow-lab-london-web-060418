@@ -30,7 +30,7 @@ function  ternaryCheckCity(city) {
 
 function switchOnCharmFromTip(tip){
   
-  let responce= switch (expression) {
+  let response= switch (expression) {
     case value1:
       // Statements
       
