@@ -5,6 +5,8 @@ def scuberGreetingForFeet(ride){
   //does not allow rides over 2500 feet
  
 function scuberGreetingForFeet(ride){
-  1
+   if  ride <=  (400) {
+    return 'This one is on me!'
+  }
 }
   
