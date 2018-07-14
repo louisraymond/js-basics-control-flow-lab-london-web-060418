@@ -41,7 +41,7 @@ function switchOnCharmFromTip(tip){
       // Statements
     break;
     default:
-     "bye"
+     "Bye."
     break;
 }
   
