@@ -32,9 +32,7 @@ function switchOnCharmFromTip(tip){
   
   
   
-  response
-  
-   switch (tip) {
+  let response= switch (tip) {
     case ('generous'):
       // Statements
       "Thank you so much."
