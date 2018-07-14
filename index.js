@@ -5,10 +5,10 @@
   //does not allow rides over 2500 feet
  
 function scuberGreetingForFeet(ride){
-    let greeting=""
+    let greeting="";
    if  (ride <=  400) {
-      greeting= 'This one is on me!'
+      greeting= 'This one is on me!';
   }
-    else if 
+  
 }
   
