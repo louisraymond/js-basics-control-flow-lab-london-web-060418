@@ -37,7 +37,7 @@ function switchOnCharmFromTip(tip){
       // Statements
       response
     break;
-    case value2:
+    case (''):
       // Statements
     break;
     default:
