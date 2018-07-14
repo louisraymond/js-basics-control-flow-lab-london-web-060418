@@ -28,7 +28,8 @@ function  ternaryCheckCity(city) {
   return response
 }
 
-function switchOnCharmFromTip(){
+function switchOnCharmFromTip(tip){
+  if (tip)
 //   //should return "Thank you so much." if the tip is generous ‣
 // //AssertionError: expected undefined to equal 'Thank you so much.'
 //   // at Context.<anonymous> (test/indexTest.js:30:51)
