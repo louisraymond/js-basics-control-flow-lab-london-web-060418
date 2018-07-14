@@ -14,7 +14,7 @@ function scuberGreetingForFeet(ride){
         greeting='I will gladly take your thirty bucks.'  
   }
       
-       if (ride >2500) {
+      if (ride >2500) {
         greeting="No can do."
       }
   return greeting
