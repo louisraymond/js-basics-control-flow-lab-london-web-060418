@@ -33,7 +33,7 @@ function switchOnCharmFromTip(tip){
   
   
   switch (tip) {
-    case (tip='generous'):
+    case ('generous'):
       // Statements
       response
     break;
