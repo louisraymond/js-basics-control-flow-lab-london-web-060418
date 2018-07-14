@@ -37,7 +37,7 @@ function switchOnCharmFromTip(tip){
       // Statements
       response
     break;
-    case (''):
+    case ('not as generous'):
       // Statements
     break;
     default:
